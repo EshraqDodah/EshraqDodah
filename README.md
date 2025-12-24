@@ -12,7 +12,9 @@
 - 💻 I am a programmer who enjoys building clean and functional applications  
 - 🌱 I’m currently learning **Flutter** and improving my Dart skills  
 - 🎨 I love front-end design and creating smooth user interfaces  
-- 🤖 I also have experience with **Blue Prism (RPA)**  
+- 🤖 I also have experience with **Blue Prism (RPA)**
+- 🏆 Certified RPA Developer from Blue Prism – [View Credential](https://www.credly.com/badges/eac887ef-bc15-4163-9b3c-f94fcd77ba08/public_url)
+
 ---
 
 ## 🛠️ Languages & Tools
